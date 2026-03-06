@@ -2,8 +2,7 @@
 
 ## 📱 To-Do List App
 
-This is a simple mobile productivity app built using React Native and Expo.  
-The app allows users to manage their daily tasks easily.
+This is a simple mobile productivity app built using React Native and Expo. The app allows users to manage their daily tasks easily.
 
 Users can add tasks, mark them as completed, edit tasks, delete tasks, and track their progress. The app also includes a personalized greeting and a dark mode feature.
 
